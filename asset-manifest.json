@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/BookMyMovie/static/css/main.1a976b4f.css",
-    "main.js": "/BookMyMovie/static/js/main.efdebdc2.js",
+    "main.js": "/BookMyMovie/static/js/main.58a25808.js",
     "static/js/787.d4b321b3.chunk.js": "/BookMyMovie/static/js/787.d4b321b3.chunk.js",
     "static/media/navlogo.png": "/BookMyMovie/static/media/navlogo.1700363c5f889a7e4ada.png",
     "index.html": "/BookMyMovie/index.html",
     "main.1a976b4f.css.map": "/BookMyMovie/static/css/main.1a976b4f.css.map",
-    "main.efdebdc2.js.map": "/BookMyMovie/static/js/main.efdebdc2.js.map",
+    "main.58a25808.js.map": "/BookMyMovie/static/js/main.58a25808.js.map",
     "787.d4b321b3.chunk.js.map": "/BookMyMovie/static/js/787.d4b321b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a976b4f.css",
-    "static/js/main.efdebdc2.js"
+    "static/js/main.58a25808.js"
   ]
 }
