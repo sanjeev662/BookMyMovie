@@ -39,12 +39,12 @@ function MovieDeatails() {
               dangerouslySetInnerHTML={{ __html: movie.show.summary }}
               className="mt-4"
             ></div>
-            <Button variant="primary" onClick={handleClick}>
+            <Button variant="primary" onClick={handleClick} style={{ marginTop:"1rem" }}>
               BookMyMovie
             </Button>
 
             <Button
-              style={{ marginLeft: "1rem" }}
+              style={{ marginLeft: "1rem" , marginTop:"1rem" }}
               variant="primary"
               onClick={() => navigate(-1)}
             >
